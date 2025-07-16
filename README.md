@@ -1,4 +1,4 @@
-# Build a Semantic Book Recommender with LLMs – Full Course
+# Langchain-Book-Suggester
 
 This repo contains all of the code to complete the freeCodeCamp course, "Build a Semantic Book Recommender with LLMs – Full Course". There are five components to this tutorial:
 * Text data cleaning (code in the notebook `data-exploration.ipynb`)
